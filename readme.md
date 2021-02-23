@@ -1,0 +1,1 @@
+# No Bullshit Git Exercises
