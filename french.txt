@@ -1,2 +1,3 @@
 hello: bonjour
 goodbye: au revoir
+bathroom: toilette
